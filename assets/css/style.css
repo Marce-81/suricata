@@ -1,0 +1,63 @@
+
+body {
+font-family: 'open sans' sans-serif;
+
+}
+.fondo-rosado{
+  background-color: #e83e8c!important;
+}
+
+.fondo-celeste {
+background-color: #17A2B8;
+
+
+}
+
+.logo-imagen{
+  max-height: 50px;
+}
+
+h1 {
+color:#707070;
+weight:700;
+font-size: 3.75rem;
+
+}
+
+h5{
+
+color:#373A3C;
+font-size: 17px;
+font-weight: 700;
+}
+
+h2{
+font-size: 2.5rem;
+font-weight: 700;
+
+
+}
+
+.card-text{
+font-size:1rem;
+color: #373A3C;
+font-weight:400;
+
+}
+
+.icons-section{
+  color: white;
+  font-size: 2.5em;
+}
+.fa-iconos{
+  font-size: 2em;
+}
+.pagos h2{
+  font-size: 2.5rem;
+  padding-top: 10%;
+
+}
+
+.logo-footer{
+    max-height: 100px;
+  }
